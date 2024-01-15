@@ -1,0 +1,18 @@
+p{
+    font-style: italic;
+    font-size: large;
+    color: blue;
+}
+
+#titulo{
+    color: green;
+}
+
+#MiBoton{
+    background-color: #4CAF50;
+    color: #ffff;
+}
+
+.encabezado{
+    color: lightblue;
+}
